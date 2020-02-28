@@ -1,4 +1,4 @@
-# ITP_Projekt
+# ITP_Projekt (ClickToGraduate)
 ----------------
 Mitglieder:
  - Melvin Erk
@@ -7,3 +7,4 @@ Mitglieder:
  - Simon Latttner
  - Andreas Kronberger
  --------------
+
