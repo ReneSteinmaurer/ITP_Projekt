@@ -1,6 +1,6 @@
 # ITP_Projekt (ClickToGraduate)
 ----------------
-Mitglieder:
+Collaborator:
  - Melvin Erk
  - Vincent Mach
  - Rene Steinmaurer
